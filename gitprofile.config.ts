@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-        'https://github.com/snvishna/shankar-raju-gitprofile/blob/main/resume.pdf',
+        'https://github.com/snvishna/shankar-raju-gitprofile/raw/main/resume.pdf',
     //  'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
